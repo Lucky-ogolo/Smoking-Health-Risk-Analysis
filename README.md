@@ -4,13 +4,13 @@
 
 This project focuses on visualizing and Smoking health Risks using a health dataset. I built an interactive and dynamic Power BI dashboard that tracks disease progression metrics, highlights differences between healthy and diseased scans, and visualizes them.
 The project was inspired by and developed through a detailed, step-by-step YouTube tutorial by Isaac Emmanuel. His guide provided a structured approach to understanding how health data can be explored and communicated using business intelligence tools.
-The goal of this project was not only to replicate the tu**torial but also to improve my skills in Power BI, especially in areas like visual storytelling, healthcare analytics, DAX , and advanced layout design
----
+The goal of this project was not only to replicate the tutorial but also to improve my skills in Power BI, especially in areas like visual storytelling, healthcare analytics, and Dax.
+
 ## 🧠 Problem Statement
 
 Smoking is a major public health concern with well documented impacts on multtiple organs of the body. However, health risks across different organs and patient demographic is critical for effective health analysis and decision-making.
 
-This project analyzes smoking -related health risks by comparing **damaged** and **healthy** organ conditions across key body systems, including the heart, lungs , liver,kidneys, and the overall human body. the goal is to provide a  clear, interactive overview of how smoking behavior  correlates with health indicators.
+This project analyzes smoking-related health risks by comparing **damaged** and **healthy** organ conditions across key body systems, including the heart, lungs , liver,kidneys, and the overall human body. the goal is to provide a  clear, interactive overview of how smoking behavior  correlates with health indicators.
 
 Using an interactive Power Bi dashboard, the analysis focuses on:
 - Total number of patients
@@ -22,14 +22,14 @@ Using an interactive Power Bi dashboard, the analysis focuses on:
 ---
 ## 📊 Data Overview
 The dataset used in this project contains patient-level health and smoking-related information.it includes variables describing smoking behavior, health conditions, and demographic attributes, which allow for comparative analysis between healthy and damaged organ conditions.
-Key variables include smoking status,smoking duration,,daily intake ,cholesterol and hypertension risk , gender, and organ condition classifications(healthy& damages).
----
+Key variables include smoking status,smoking duration,,daily intake ,cholesterol and hypertension risk , gender, and organ condition classifications(healthy& damages)
+
 ## 🛠️ Tools Used
 - **Power BI** - Data modelling, visualization and dashboard creation
 - **Powe Query** - Data transformation
 - **Dax** - Creation of calculated measures and KPIs
 - **YouTube** - Tutorial from analyst isaac emmanuel
----
+
 ## 📈 Dashboard features 
 - Seperation of **healthy** and **damaged** organ conditions by button slicers
 - chiclet slicers to toggle between Organs
@@ -43,7 +43,7 @@ Key variables include smoking status,smoking duration,,daily intake ,cholesterol
 - Smoking prevalence varies by gender, with noticeable differences in smoking patterns
 - Higher cholesterol levels and hypertension risks are more common among patients with damaged organs
 - Interactive filtering makes it easier to identify relationships between smoking behavior and health indicators.
----
+  
   ## 📌 Conclusion & Learnings
 This project helped strengthen my understanding of data visualization , interactive dashboard design, and health- related  data analysis
  Through this analysis,i improved my skills in:
