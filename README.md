@@ -22,7 +22,7 @@ Using an interactive Power Bi dashboard, the analysis focuses on:
 ---
 ## 📊 Data Overview
 The dataset used in this project contains patient-level health and smoking-related information.it includes variables describing smoking behavior, health conditions, and demographic attributes, which allow for comparative analysis between healthy and damaged organ conditions.
-Key variables include smoking status,smoking duration,,daily intake ,cholesterol and hypertension risk , gender, and organ condition classifications(healthy& damages)
+Key variables include smoking status,smoking duration,,daily intake ,cholesterol and hypertension risk , gender, and organ condition classifications(healthy& damaged)
 
 ## 🛠️ Tools Used
 - **Power BI** - Data modelling, visualization and dashboard creation
