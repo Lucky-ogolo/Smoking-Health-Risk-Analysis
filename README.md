@@ -38,6 +38,16 @@ Key variables include smoking status,smoking duration,,daily intake ,cholesterol
 - Visual analysis of percentage of smoking status , smoking status by gender, cholesterol and hypertension risk,smoking duration and daily intake
   These feature allow users to quickly compare health outcoms ans smoking patterns across different organ conditionsand demographics.
        
+## ✅Tasks Performed
+
+- Imported the cleaned datasets into Power BI
+- Created DAX measures to calculate  metrics (Vs Average age,average BMi)
+- Designed a custom dashboard layout in PowerPoint and used it as the visual background
+- Used  image placeholders to display Organ images
+ - Applied Slicers  for interactivity
+- Organized visual elements using uniform themes, colors, and typography
+- Published and tested interactive filters for improved usability
+
   ## 🔍Key insights
 - Damaged organ groups show higher smoking duration and daily cigarette intake compared to healthy groups.
 - Smoking prevalence varies by gender, with noticeable differences in smoking patterns
