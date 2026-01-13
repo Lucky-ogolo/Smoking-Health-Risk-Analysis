@@ -66,5 +66,6 @@ This project helped strengthen my understanding of data visualization , interact
 I would like to thank Isaac Emmanuel for creating the detailed tutorial that guided this project. His teaching style is clear, hands-on, and beginner-friendly. You can find his channel on YouTube to explore more tutorials.
 
 ## 🪟 Dashboard preview
-[Smoking Health Risk Dashboard](www.linkedin.com/in/lucky-ogolo/)
+
+[Smoking Health Risk Dashboard](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/879557ef2ce028b0d6f93bc03ac8cbc9a69dc3bc/Dashboard.png.png)
 
