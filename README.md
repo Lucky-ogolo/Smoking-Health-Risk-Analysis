@@ -28,6 +28,7 @@ Key variables include smoking status,smoking duration,,daily intake ,cholesterol
 - **Power BI** - Data modelling, visualization and dashboard creation
 - **Powe Query** - Data transformation
 - **Dax** - Creation of calculated measures and KPIs
+- **Power Point** - Dashboard background layout
 - **YouTube** - Tutorial from analyst isaac emmanuel
 
 ## 📈 Dashboard features 
