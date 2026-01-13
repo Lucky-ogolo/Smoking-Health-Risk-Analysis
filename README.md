@@ -68,6 +68,5 @@ I would like to thank Isaac Emmanuel for creating the detailed tutorial that gui
 
 ## 🪟 Dashboard preview
 
-
 ![SmokingHealthAnalysisDashboard](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/9192dad24e1cc5696189b07f0551c2bf5ae3c691/Dashboard.png)
 
