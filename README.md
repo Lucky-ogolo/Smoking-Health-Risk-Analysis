@@ -96,6 +96,11 @@ Through this project, I strengthened my skills in:
 - Designing interactive Power BI dashboards
 - Communicating health-related insights through visualization
 
+## 🩺 Health Implications
+- Long-term and high-intensity smoking is associated with increased health risks such as hypertension and elevated cholesterol levels.
+- Organ-level analysis highlights a clear distinction between healthy and damaged conditions, emphasizing the cumulative impact of smoking.
+- Interactive filtering allows stakeholders to explore targeted risk patterns across organs and smoking behavior.
+
    ## 🙏 Acknowledgments
 I would like to thank Isaac Emmanuel for creating the detailed tutorial that guided this project. His teaching style is clear, hands-on, and beginner-friendly. You can find his channel on YouTube to explore more tutorials.
 
