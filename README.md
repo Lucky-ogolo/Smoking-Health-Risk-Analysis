@@ -104,3 +104,8 @@ I would like to thank Isaac Emmanuel for creating the detailed tutorial that gui
 ![SmokingHealthAnalysisDashboard](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/9192dad24e1cc5696189b07f0551c2bf5ae3c691/Dashboard.png)
 
 ![](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/ae1879c954f88d4f150e13b7a43dfd0568304e39/Dashboard1.png)
+
+## 🤝 Let’s Connect
+  
+  - 💼 [LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 [Email](luuckyyyy@gmail.com) 
